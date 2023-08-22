@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-appdirs=1.4.4=pyhd3eb1b0_0
 blas=1.0=mkl
 bottleneck=1.3.5=py38h080aedc_0
 brotli=1.0.9=h2bbff1b_7
