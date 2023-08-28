@@ -9,7 +9,7 @@ import streamlit as st
 import pickle
 
 # Load the saved model
-loaded_model = pickle.load(open('C:\\Users\\Vinod\\Downloads\\Myocardial_Project3\\logistic_regression_model.pkl', 'rb'))
+loaded_model = pickle.load(open('/content/logistic_regression_model.pkl', 'rb'))
 
 # Define the selected features
 selected_features = ['AGE','SEX','RAZRIV','K_SH_POST','D_AD_ORIT','IBS_POST']
